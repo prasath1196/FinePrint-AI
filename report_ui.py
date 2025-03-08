@@ -63,7 +63,7 @@ def report_markdown(extracted_data):
         </head>
         <body>
             <div class="container">
-                <h1>📜 Terms of Service Insights</h1>
+                <h1>Terms of Service Insights</h1>
                 
                 <h2>🏢 Company</h2>
                 <div class="insight"><span class="icon">🏛️</span> <strong>{extracted_data['company']}</strong></div>
