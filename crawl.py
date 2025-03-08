@@ -18,7 +18,6 @@ def extract_data(url):
     json_data = json.loads(completion.choices[0].message.content)
     return json_data
 
-
 def scrape_content(url):
     app = FirecrawlApp(api_key=os.getenv('FIRECRWAL_KEY'))
     scrape_result = app.scrape_url(url, 
@@ -54,6 +53,5 @@ def get_extraction_prompt(content):
     "legal_disputes": "Users waive right to sue. All disputes go to arbitration."
     ```     
      """   
-
     return prompt
 
