@@ -1,7 +1,7 @@
-# 🔥 Firecrawl Privacy Report Generator  
+# 🔥 FinePrint-AI  
 
 ## 📌 Project Description  
-The **Firecrawl Privacy Report Generator** is a Python-based application that scrapes **Terms of Service agreements** from specified URLs and generates structured reports highlighting **key privacy insights**. It utilizes **Firecrawl for web scraping** and **OpenAI's language model** to extract actionable information from the scraped content.  
+The **FinePrint-AI** is a Python-based application that scrapes **Terms of Service agreements** from specified URLs and generates structured reports highlighting **key privacy insights**. It utilizes **Firecrawl for web scraping** and **OpenAI's language model** to extract actionable information from the scraped content.  
 
 ### ✨ Features  
 ✅ Scrapes **Terms of Service agreements** from user-provided URLs  
@@ -9,6 +9,8 @@ The **Firecrawl Privacy Report Generator** is a Python-based application that sc
 ✅ Generates a **well-styled HTML report** with **actionable insights**  
 ✅ Provides **AI-powered analysis** to detect **red flags** in Terms of Service  
 
+## DEMO
+https://fineprint-ai-2025.streamlit.app/
 ---
 
 ## 🛠️ Installation Instructions  
@@ -185,7 +187,7 @@ This tool provides AI-generated insights and should **not be considered legal ad
 
 ## 🔗 **Contact & Support**  
 📩 Email: `your-email@example.com`  
-🐙 GitHub: [GitHub Repository](https://github.com/your-repo-link)  
+🐙 GitHub: [GitHub Repository](https://github.com/prasath1196/FinePrint-AI/)  
 🚀 Built with ❤️ using **AI & Web Scraping**  
 
 ---
