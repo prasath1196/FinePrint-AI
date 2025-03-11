@@ -9,8 +9,7 @@ The **FinePrint-AI** is a Python-based application that scrapes **Terms of Servi
 ✅ Generates a **well-styled HTML report** with **actionable insights**  
 ✅ Provides **AI-powered analysis** to detect **red flags** in Terms of Service  
 
-## DEMO
-https://fineprint-ai-2025.streamlit.app/
+
 ---
 
 ## 🛠️ Installation Instructions  
